@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @Pythm441
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning Code
-- 💞️ I’m looking to collaborate on Someone who loves to code
-- 📫 How to reach me hack my code
-- CODE CODE CODE CODE
+# 👋 Hi, I'm Pythm
 
-<!---
-Pythm441/Pythm441 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 A passionate programmer blending code with creativity.  
+💡 I believe code is like rhythm — structured, expressive, and powerful.  
+
+## 🧠 About Me
+- 📚 Constantly learning and exploring new technologies.
+- 🧪 Currently experimenting with open-source projects.
+- 🎯 My goal: Build tools that matter and learn something every day.
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, Bash
+- 🔧 Tools: Git, Linux, VS Code, Docker
+- 🧩 Interests: AI, cybersecurity, automation, system design
+
+ ## 🌐 Connect With Me
+
+- 💬 Ask me about: creative coding, clean code, or weird side-projects
+- 📫 Reach out: `abdulrahmanmetawea25@gmail.com`
+- 🌍 Portfolio: Coming soon...
+
+---
+
+> “Code is rhythm. Write yours with meaning.”
+
+---
