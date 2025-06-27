@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: Python, Bash
+- 💻 Languages: Python, Bash and C#
 - 🔧 Tools: Git, Linux, VS Code, Docker
 - 🧩 Interests: AI, cybersecurity, automation, system design
 
